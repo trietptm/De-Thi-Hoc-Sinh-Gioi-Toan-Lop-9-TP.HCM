@@ -1,5 +1,5 @@
 # De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM
-Đề Thi Học Sinh Giỏi Toán Lớp 9 ở TP.HCM
+Đề Thi Học Sinh Giỏi Toán Lớp 9 ở TP.HCM (Đề Thi HSG Giỏi Toán Cấp Thành Phố)
 
 ## 2022:
 ![image](https://user-images.githubusercontent.com/526959/167818596-4fe14e28-8d2e-4de9-ae82-59ad7d9e307b.png)
