@@ -7,6 +7,9 @@
 ## 2021:
 ![image](https://user-images.githubusercontent.com/526959/167823048-535be3d4-e17b-43ff-b55e-9854e4946a9d.png)
 
+## 2020:
+![image](https://user-images.githubusercontent.com/526959/168243675-e77941ef-a366-432a-a6b2-13fdec8c8314.png)
+
 ## 2019:
 ![image](https://user-images.githubusercontent.com/526959/168212872-b096f741-0be1-4da4-a174-a269b8e86140.png)
 
@@ -19,5 +22,7 @@
 
 ## 2013:
 ![image](https://user-images.githubusercontent.com/526959/168211212-28a637d9-e18b-472d-8b47-be224a395982.png)
+
+![image](https://user-images.githubusercontent.com/526959/168249340-cb407726-2bd0-4fa8-b1ca-4aebba9d2c70.png)
 
 
