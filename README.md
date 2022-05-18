@@ -26,6 +26,5 @@
 ## 2013:
 ![image](https://user-images.githubusercontent.com/526959/168211212-28a637d9-e18b-472d-8b47-be224a395982.png)
 
-![image](https://user-images.githubusercontent.com/526959/168249340-cb407726-2bd0-4fa8-b1ca-4aebba9d2c70.png)
 
 
