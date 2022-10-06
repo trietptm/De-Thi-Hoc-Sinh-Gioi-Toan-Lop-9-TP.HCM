@@ -3,6 +3,7 @@
 
 ## 2022:
 ![image](https://user-images.githubusercontent.com/526959/167818596-4fe14e28-8d2e-4de9-ae82-59ad7d9e307b.png)
+![image](https://user-images.githubusercontent.com/526959/194223502-26f355e9-5d8e-4e7a-add6-b0bb05375341.png)
 
 ## 2021:
 ![image](https://user-images.githubusercontent.com/526959/167823048-535be3d4-e17b-43ff-b55e-9854e4946a9d.png)
