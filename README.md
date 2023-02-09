@@ -1,5 +1,7 @@
 # De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM
-Đề Thi Học Sinh Giỏi Toán Lớp 9 ở TP.HCM (Đề Thi HSG Giỏi Toán Cấp Thành Phố)
+* Tuyển tập Đề Thi Học Sinh Giỏi Toán Lớp 9 ở TP.HCM (Đề Thi HSG Giỏi Toán Cấp Thành Phố) Triết sử dụng cho các lớp toán nâng cao, toán chuyên PTNK, toán không chuyên PTNK cho các bạn học sinh lớp 7, 8 và lớp 9, tối 2-4-6, 3-5-7, thứ 7-CN hàng tuần.
+* Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
+https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
 ## 2022:
 ![image](https://user-images.githubusercontent.com/526959/167818596-4fe14e28-8d2e-4de9-ae82-59ad7d9e307b.png)
