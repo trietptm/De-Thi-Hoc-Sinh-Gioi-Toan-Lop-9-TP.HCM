@@ -67,7 +67,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
 ## 2005:
 
-## 2004:
+## 2003-2004:
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/0480101f-3c49-4bc0-ba3d-d992f3f712cd)
 
 ## 2003:
 ![image](https://user-images.githubusercontent.com/526959/224603283-9a3a29a3-d7d7-4943-9f3b-65c50f1fd5b8.png)
