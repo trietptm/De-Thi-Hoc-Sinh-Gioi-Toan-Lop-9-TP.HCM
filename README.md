@@ -51,6 +51,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2011:
 
 ## 2010:
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/231f076c-bed1-48b0-bfd7-bd129ed463b5)
+
 ![image](https://user-images.githubusercontent.com/526959/217498394-d6910c39-58e2-4827-9be3-4338deaac99d.png)
 
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/b6a9bb54-b41c-4ce7-a145-e6fd955e89a6)
