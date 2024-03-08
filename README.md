@@ -62,6 +62,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2007-2008:
 
 ## 2006-2007:
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/7764cd18-0892-4461-9683-9844826395d2)
 
 ## 2005-2006:
 
