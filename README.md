@@ -49,7 +49,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/8af6175b-6f84-4aa6-95a8-16966b1cb710)
 
 ## 2010-2011:
-![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/99114654-6072-45ab-bd92-af122c3f8d90)
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/05587c51-5b3d-4508-a66d-4b10b668d690)
 
 ## 2009-2010:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/231f076c-bed1-48b0-bfd7-bd129ed463b5)
