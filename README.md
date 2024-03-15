@@ -45,6 +45,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2012-2013:
 ![image](https://user-images.githubusercontent.com/526959/168211212-28a637d9-e18b-472d-8b47-be224a395982.png)
 
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/bf35a7a0-e06e-45ef-9e47-fd282eb0cd9b)
+
 ## 2011-2012:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/8af6175b-6f84-4aa6-95a8-16966b1cb710)
 
