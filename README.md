@@ -3,6 +3,9 @@
 * Liên hệ học thử: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm) gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
 https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
+## 2023-2024:
+![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/af841103-6bfa-4681-8b30-bf1eda2e40da)
+
 ## 2022-2023:
 ![image](https://user-images.githubusercontent.com/526959/225559435-da5f0bbc-27c4-4e50-a6fd-e52aaf232934.png)
 
