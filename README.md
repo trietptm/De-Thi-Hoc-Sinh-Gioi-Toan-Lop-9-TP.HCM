@@ -81,7 +81,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://user-images.githubusercontent.com/526959/224603283-9a3a29a3-d7d7-4943-9f3b-65c50f1fd5b8.png)
 
 
-## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
+## CÁC CHUYÊN ĐỀ ÔN THI HỌC SINH GIỎI TOÁN LỚP 9 Ở TP.HCM:
 * Phương pháp phản chứng
   * Sử dụng phản ví dụ nhỏ nhất/lớn nhất
 * Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp/nguyên lí quy nạp toán học)
@@ -135,6 +135,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Hình học tam giác, tứ giác
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
+    * Định lí Ceva, định lí Menelaus, định lí Van Aubel
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
     * Phương tích
