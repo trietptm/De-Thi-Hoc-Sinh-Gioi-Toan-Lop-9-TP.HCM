@@ -163,6 +163,12 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Bài toán phủ hình
 * 
 
+## THAM KHẢO THÊM:
+* https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK
+* https://github.com/trietptm/De-Thi-Toan-Khong-Chuyen-Tuyen-Sinh-Lop-10-PTNK
+* https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-Trung-Hoc-Pho-Thong-TP.HCM
+* https://github.com/trietptm/De-Thi-Chon-Doi-Tuyen-Toan-Hoc-Sinh-Gioi-Toan-Tran-Dai-Nghia
+* 
 
 
 
