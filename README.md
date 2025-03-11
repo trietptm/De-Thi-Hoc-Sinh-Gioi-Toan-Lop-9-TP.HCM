@@ -132,6 +132,11 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 1995-1996:
 ![image](https://github.com/user-attachments/assets/08e689d0-3e37-495e-99a9-2f96508190ec)
 
+![image](https://github.com/user-attachments/assets/44f142e7-1a1f-4cae-a288-ee989cc5b5b5)
+
+![image](https://github.com/user-attachments/assets/d565e386-fce7-428d-b696-53272ea5a622)
+![image](https://github.com/user-attachments/assets/6b33bbae-b540-4291-bfa1-d0ca9e6cd8f8)
+
 ## 1994-1995:
 
 ## 1993-1994:
