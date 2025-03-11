@@ -84,12 +84,47 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/user-attachments/assets/fb3638f5-61bd-4fd7-8d8f-b0412441cd5f)
 
 ## 2004-2005:
+![image](https://github.com/user-attachments/assets/eb08c3f6-56d0-4451-bede-f5ccc5f1a886)
+![image](https://github.com/user-attachments/assets/3ec37f91-c891-44d8-9854-3c1800f084ef)
 
 ## 2003-2004:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/0480101f-3c49-4bc0-ba3d-d992f3f712cd)
 
+![image](https://github.com/user-attachments/assets/5998b5a2-57ea-4a02-a7c4-898d9d186eac)
+![image](https://github.com/user-attachments/assets/2a01a584-0466-49bc-adec-4418e973f9fb)
+
 ## 2002-2003:
 ![image](https://user-images.githubusercontent.com/526959/224603283-9a3a29a3-d7d7-4943-9f3b-65c50f1fd5b8.png)
+
+![image](https://github.com/user-attachments/assets/bcd2c586-c5ec-4d27-8645-bc8a11701360)
+![image](https://github.com/user-attachments/assets/997e7698-2016-4d5a-815e-3d0fa3d1fe17)
+
+## 2001-2002:
+
+## 2000-2001:
+
+## 1999-2000:
+
+## 1998-1999:
+
+## 1997-1998:
+
+## 1996-1997:
+
+## 1995-1996:
+
+## 1994-1995:
+
+## 1993-1994:
+
+## 1992-1993:
+
+## 1991-1992:
+
+## 1990-1991:
+
+## 1989-1990:
+
 
 
 ## CÁC CHUYÊN ĐỀ ÔN THI HỌC SINH GIỎI TOÁN LỚP 9 Ở TP.HCM:
