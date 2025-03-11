@@ -35,6 +35,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/cd4b6238-a196-4707-827c-5022a8aa2331)
 
 ## 2015-2016:
+![image](https://github.com/user-attachments/assets/f873168a-db78-4fad-877c-e8ab2e036b54)
+![image](https://github.com/user-attachments/assets/017a1415-8bff-49e2-b30d-523f763e9c07)
 
 ## 2014-2015:
 ![image](https://user-images.githubusercontent.com/526959/225531638-14a486b5-6297-4d97-8955-682b3bfe27a6.png)
@@ -69,12 +71,16 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/user-attachments/assets/fac5202d-ce14-4427-9425-0cfc5c756410)
 
 ## 2007-2008:
+![image](https://github.com/user-attachments/assets/e4901b08-acb4-4935-9de1-1d5ccc13fd6c)
+
 ![image](https://github.com/user-attachments/assets/5419e75d-c32a-43c0-bd43-4da8c8843160)
 
 ## 2006-2007:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/7764cd18-0892-4461-9683-9844826395d2)
 
 ## 2005-2006:
+![image](https://github.com/user-attachments/assets/b2b1687c-ab34-4269-ab5b-16904d15954e)
+
 ![image](https://github.com/user-attachments/assets/fb3638f5-61bd-4fd7-8d8f-b0412441cd5f)
 
 ## 2004-2005:
