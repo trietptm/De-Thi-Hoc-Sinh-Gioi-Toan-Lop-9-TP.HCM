@@ -65,13 +65,17 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/b6a9bb54-b41c-4ce7-a145-e6fd955e89a6)
 
 ## 2008-2009:
+![image](https://github.com/user-attachments/assets/196515bc-665d-4ee4-8375-1be2164700c8)
+![image](https://github.com/user-attachments/assets/fac5202d-ce14-4427-9425-0cfc5c756410)
 
 ## 2007-2008:
+![image](https://github.com/user-attachments/assets/5419e75d-c32a-43c0-bd43-4da8c8843160)
 
 ## 2006-2007:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/7764cd18-0892-4461-9683-9844826395d2)
 
 ## 2005-2006:
+![image](https://github.com/user-attachments/assets/fb3638f5-61bd-4fd7-8d8f-b0412441cd5f)
 
 ## 2004-2005:
 
