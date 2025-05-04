@@ -225,9 +225,10 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 * Số chính phương, số lập phương, số lũy thừa
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
   * Phương pháp xuống thang
+  * Giải toán bằng cách lập phương trình, hệ phương trình, hệ bất phương trình nghiệm nguyên/tự nhiên, sử dụng tính chia hết và phép chia có dư
 * Dãy số nguyên
 * Đa thức và ứng dụng
-* Bất đẳng thức và ứng dụng trong đại số, số học
+* Bất đẳng thức và ứng dụng trong đại số, số học và các bài toán giải bằng cách lập phương trình, hệ phương trình (toán thực tế,...)
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
