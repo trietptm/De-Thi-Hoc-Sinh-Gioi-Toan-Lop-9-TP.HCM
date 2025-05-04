@@ -229,7 +229,12 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
+  * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
+  * Bất đẳng thức chứa dấu giá trị tuyệt đối
+  * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức (cực trị đại số)
+    * Cực trị đại số và bất đẳng thức trong bài toán thực tế
+  * Bất đẳng thức và ứng dụng trong giải phương trình/hệ phương trình không mẫu mực
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
 * Hệ phương trình hai ẩn mẫu mực
@@ -281,6 +286,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
   * Tìm và chứng minh các điểm cố định mà một đường thẳng/đường tròn đi qua
 * Các bài toán hình học có nội dung tính toán
+* Tổ hợp và xác suất
 * Hình học tổ hợp
   * Bài toán phủ hình
 * 
