@@ -3,6 +3,9 @@
 * Liên hệ học thử các lớp toán online và offline: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm), gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận.
 https://goo.gl/maps/CghSicAvrM6nnYJ8A
 
+## 2024-2025:
+![image](https://github.com/user-attachments/assets/4a58df5c-a2be-4a78-aa40-11b8b87e493c)
+
 ## 2023-2024:
 ![image](https://github.com/trietptm/De-Thi-Hoc-Sinh-Gioi-Toan-Lop-9-TP.HCM/assets/526959/af841103-6bfa-4681-8b30-bf1eda2e40da)
 
