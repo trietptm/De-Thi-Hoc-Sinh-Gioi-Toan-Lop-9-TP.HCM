@@ -216,11 +216,11 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Nguyên lí Dirichlet và các bài toán bất đẳng thức
   * Nguyên lí Dirichlet trong tổ hợp
   * Nguyên lí Dirichlet trong hình học
-* Phép chia hết, phép chia có dư, đồng dư thức
+* Phép chia hết, phép chia có dư, đồng dư thức trên tập hợp số nguyên
   * Số học và các hằng đẳng thức
     * Xét tính chẵn lẻ
   * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
-* Ước chung lớn nhất, bội chung nhỏ nhất
+* Ước chung lớn nhất (UCLN), bội chung nhỏ nhất (BCNN)
 * Số nguyên tố, hợp số
 * Số chính phương, số lập phương, số lũy thừa
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
@@ -228,14 +228,19 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Giải toán bằng cách lập phương trình, hệ phương trình, hệ bất phương trình nghiệm nguyên/tự nhiên, sử dụng tính chia hết và phép chia có dư
 * Dãy số nguyên
 * Đa thức và ứng dụng
+  * Biến đổi đại số: Chứng minh đẳng thức, rút gọn biểu thức, tính giá trị biểu thức
+  * Phép chia đa thức
+  * Định lí Bézout
 * Bất đẳng thức và ứng dụng trong đại số, số học và các bài toán giải bằng cách lập phương trình, hệ phương trình (toán thực tế,...)
   * Các phương pháp chứng minh bất đẳng thức
+    * Bất đẳng thức AM-GM/Cauchy 2 số
   * Bất đẳng thức chứa căn thức
   * Phương trình bậc hai, tam thức bậc hai, đa thức bậc 4 và bài toán chứng minh bất đẳng thức
   * Bất đẳng thức số học
   * Bất đẳng thức chứa dấu giá trị tuyệt đối
   * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức (cực trị đại số)
-    * Cực trị đại số và bất đẳng thức trong bài toán thực tế
+    * Cực trị đại số và bất đẳng thức trong bài toán thực tế, bài toán tối ưu trong thực tế
+      * Tìm cực trị của hình khối
   * Bất đẳng thức và ứng dụng trong giải phương trình/hệ phương trình không mẫu mực
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
@@ -266,8 +271,10 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
     * Tỉ số lượng giác
     * Định lí Ceva, định lí Menelaus, định lí Van Aubel
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
-    * Tiếp tuyến và đường tròn
+    * Tiếp tuyến và đường tròn, góc tạo bởi tia tiếp tuyến và dây cung, góc nội tiếp và góc ở tâm của đường tròn
+    * Các tính chất và các dấu hiệu nhận biết một tứ giác nội tiếp (đường tròn)
     * Phương tích
+    * Cung chứa góc
     * Đường thẳng Simson, đường thẳng Steiner
     * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
@@ -287,8 +294,13 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
   * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
   * Tìm và chứng minh các điểm cố định mà một đường thẳng/đường tròn đi qua
-* Các bài toán hình học có nội dung tính toán
+* Các bài toán hình học có nội dung tính toán (độ dài, số đo góc, diện tích,...)
+  * Giải quyết một số vấn đề thực tiễn đơn giản gắn với hình học
 * Tổ hợp và xác suất
+  * Các quy tắc đếm cơ bản: quy tắc cộng, quy tắc nhân, hoán vị,...
+  * Nguyên lí bù trừ
+  * Nguyên lí cực hạn
+  * Bất biến trong tổ hợp
 * Hình học tổ hợp
   * Bài toán phủ hình
 * 
