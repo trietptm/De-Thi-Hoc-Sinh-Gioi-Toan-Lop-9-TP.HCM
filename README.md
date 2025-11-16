@@ -260,8 +260,13 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 * Phương trình không mẫu mực
 * Bất phương trình và hệ bất phương trình
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
+  * Nguyên lí Dirichlet
+  * Nguyên lí cực hạn
+  * Nguyên lí bù trừ
+  * Tính chất bất biến
   * Graph (đồ thị)
   * Cực trị tổ hợp/tối ưu tổ hợp
+  * Phương pháp lập bảng trong các bài toán suy luận tổ hợp
 * Cực trị hình học
   * Tìm giá giá trị lớn nhất, giá trị nhỏ nhất của một đại lượng hình học
 * Quỹ tích (tập hợp điểm)
@@ -284,6 +289,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
     * Định lí Reim
     * Định lí ERIQ (Equal Ratios In Quadrilateral)
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
+    * Tứ giác điều hòa, đường đối trung, điểm Dumpty, đường tròn Apollonius và các kết quả liên quan
   * Các phép biến hình:
     * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
     * Phép vị tự, phép quay, phép vị tự quay và phép biến đổi đối song
