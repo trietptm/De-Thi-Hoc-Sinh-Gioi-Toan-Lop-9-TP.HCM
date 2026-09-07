@@ -4,6 +4,10 @@
   * Bạn Phạm Dương Thùy Anh, thủ khoa tuyệt đối môn toán với 2 điểm 10 toán chuyên và toán không chuyên PTNK năm 2026 và cũng là thủ khoa kì thi tuyển sinh năm 2026 của Trường Phổ thông Năng khiếu - ĐHQG TP. HCM chỉ học lớp toán đặc biệt/Năng Khiếu của thầy Triết từ năm lớp 8 và không cần học thêm toán ở trung tâm nào khác. Bạn Thùy Anh cũng đã thi đậu lớp 10 chuyên toán Đại Học Sư Phạm Hà Nội năm 2026.
   * Các lớp toán chuyên PTNK của thầy Triết đã có 26 bạn đậu chuyên Toán trường Phổ Thông Năng Khiếu, Quận 5, 36 bạn thi đậu các lớp chuyên toán của trường Lê Hồng Phong và Trần Đại Nghĩa và 1 bạn đậu lớp chuyên toán của trường Đại Học Sư Phạm Hà Nội.
 
+## 2025-2026:
+![image](https://github.com/user-attachments/assets/ba42cd52-089c-4e32-a4bb-279713726947)
+![image](https://github.com/user-attachments/assets/17d10264-98b0-48bd-996b-a1af5a268f85)
+
 ## 2024-2025:
 ![image](https://github.com/user-attachments/assets/4a58df5c-a2be-4a78-aa40-11b8b87e493c)
 
