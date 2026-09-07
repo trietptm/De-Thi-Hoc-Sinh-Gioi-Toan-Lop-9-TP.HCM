@@ -5,6 +5,8 @@
   * Các lớp toán chuyên PTNK của thầy Triết đã có 26 bạn đậu chuyên Toán trường Phổ Thông Năng Khiếu, Quận 5, 36 bạn thi đậu các lớp chuyên toán của trường Lê Hồng Phong và Trần Đại Nghĩa và 1 bạn đậu lớp chuyên toán của trường Đại Học Sư Phạm Hà Nội.
 
 ## 2025-2026:
+![image](https://github.com/user-attachments/assets/8eaed4d3-2664-440e-9d42-8ab7c383e3be)
+![image](https://github.com/user-attachments/assets/50270ce8-81ee-43f3-b4cc-7fdd7df281c8)
 ![image](https://github.com/user-attachments/assets/ba42cd52-089c-4e32-a4bb-279713726947)
 ![image](https://github.com/user-attachments/assets/17d10264-98b0-48bd-996b-a1af5a268f85)
 
